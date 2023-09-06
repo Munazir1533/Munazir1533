@@ -12,11 +12,12 @@
 
 ### Interests
 👀 I have a keen interest in the following areas:
- -VLSI
- -Analog Electronics
-- Analog Design
+ 
+- VLSI
 - Digital Electronics
 - Digital Design
+- Analog Design
+- Analog Electronics
 
 ### Current Learning
 🌱 Currently, I am exploring my interests in VSLI, Digital design & analog design . I am dedicated to expanding my knowledge and skills in these domains.
